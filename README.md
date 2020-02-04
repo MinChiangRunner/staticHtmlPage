@@ -1,0 +1,1 @@
+# staticHtmlPage
